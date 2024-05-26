@@ -1,0 +1,21 @@
+{
+    "files.exclude": {
+        ".mypy_cache": true,
+        ".pytest_cache": true,
+        "**/__pycache__": true,
+        ".venv_312": true,
+        ".vscode": true
+    },
+    "editor.codeActionsOnSave": {
+        "source.organizeImports": "always",
+        "source.fixAll": "always"
+    },
+    "python.analysis.ignore": [
+        "**/__init__.py"
+    ],
+    "editor.formatOnSave": true,
+    "editor.formatOnType": true,
+    "[python]": {
+        "editor.defaultFormatter": "charliermarsh.ruff",
+    },
+}

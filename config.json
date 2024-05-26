@@ -1,0 +1,5 @@
+{
+    "app_name": "Voice Control System",
+    "logging_level": "INFO",
+    "openai_api_key": ""
+}

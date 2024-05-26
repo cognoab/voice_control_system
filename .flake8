@@ -1,0 +1,4 @@
+[flake8]
+# Maximum allowed line length
+max-line-length = 200
+ignore=PIE786,E221,E203,E704

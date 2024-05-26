@@ -1,0 +1,28 @@
+26-05-24 18:45:17.725 - ERROR   - OpenAI TTC Example - F:\linux_data\hmi-apps\openai_ttc_example.py:23
+export OPENAI_API_KEY or save it in the JSON file - {}
+
+
+26-05-24 18:45:39.788 - ERROR   - OpenAI TTC Example - F:\linux_data\hmi-apps\openai_ttc_example.py:23
+export OPENAI_API_KEY or save it in the JSON config file - {'config_file': 'F:\\linux_data\\hmi-apps/config.json'}
+
+
+26-05-24 18:45:58.224 - ERROR   - OpenAI TTC Example - F:\linux_data\hmi-apps\openai_ttc_example.py:23
+export OPENAI_API_KEY or save it in the JSON config file - {'config_file': 'F:\\linux_data\\hmi-apps\\config.json'}
+
+
+26-05-24 18:47:20.797 - ERROR   - OpenAI TTC Example - F:\linux_data\hmi-apps\openai_ttc_example.py:23
+export OPENAI_API_KEY or save it in the JSON config file - {'config_file': 'file:///F:/linux_data/hmi-apps/config.json'}
+
+
+26-05-24 18:47:29.642 - ERROR   - OpenAI TTC Example - F:\linux_data\hmi-apps\openai_ttc_example.py:23
+export OPENAI_API_KEY or save it in the JSON config file - {'config_file': 'F:/linux_data/hmi-apps/config.json'}
+
+
+26-05-24 18:47:42.008 - ERROR   - OpenAI TTC Example - F:\linux_data\hmi-apps\openai_ttc_example.py:23
+export OPENAI_API_KEY or save it in the JSON config file - {'config_file': 'F:\\linux_data\\hmi-apps\\config.json'}
+
+
+26-05-24 18:48:12.233 - ERROR   - OpenAI TTC Example - F:\linux_data\hmi-apps\openai_ttc_example.py:23
+export OPENAI_API_KEY or save it in the JSON config file - {'config_file': 'F:\\linux_data\\hmi-apps\\config.json'}
+
+

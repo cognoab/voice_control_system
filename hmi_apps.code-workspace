@@ -1,0 +1,57 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"python.analysis.inlayHints.functionReturnTypes": true,
+		"python.analysis.inlayHints.variableTypes": false,
+		"python.analysis.inlayHints.pytestParameters": true,
+		"editor.formatOnSave": true,
+		"editor.formatOnPaste": true,
+		"editor.formatOnType": true,
+		"[python]": {
+			"editor.defaultFormatter": "charliermarsh.ruff"
+		},
+		"highlight.regexes": {
+			"(self\\.?logger\\.?(trace|debug)\\(.*\\))": {
+				"filterLanguageRegex": "python",
+				"filterFileRegex": ".*\\.py",
+				"decorations": [
+					{
+						"color": "#758f94",
+					}
+				]
+			},
+			"(self\\.?logger\\.?(info)\\(.*\\))": {
+				"filterLanguageRegex": "python",
+				"filterFileRegex": ".*\\.py",
+				"decorations": [
+					{
+						"color": "#6a7c92",
+					}
+				]
+			},
+			"(self\\.?logger\\.?(warning)\\(.*\\))": {
+				"filterLanguageRegex": "python",
+				"filterFileRegex": ".*\\.py",
+				"decorations": [
+					{
+						"color": "#bba585",
+					}
+				]
+			},
+			"(self\\.?logger\\.?(error|critical)\\(.*\\))": {
+				"filterLanguageRegex": "python",
+				"filterFileRegex": ".*\\.py",
+				"decorations": [
+					{
+						"color": "#bd8888",
+					}
+				]
+			},
+		},
+		"python.analysis.typeCheckingMode": "standard"
+	}
+}

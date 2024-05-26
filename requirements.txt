@@ -1,0 +1,10 @@
+colorama       == 0.4.6
+inflect        == 7.2.1
+loguru         == 0.7.2
+numpy          == 1.26.4
+openai-whisper == 20231117
+openai         == 1.30.3
+pydantic       == 2.7.1
+python-dotenv  == 1.0.1
+tornado        == 6.4
+vosk           == 0.3.45
